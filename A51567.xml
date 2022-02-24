@@ -1,0 +1,443 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The spirit of the hat, or, The government of the Quakers among themselves as it hath been exercised of late years by George Fox, and other leading-men, in their Monday, or second-days meeting at Devonshire-House, brought to light : in a bemoaning letter of a by G.I.</title>
+            <author>Mucklow, William, 1631-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51567</idno>
+            <idno type="STC">Wing M3035_VARIANT</idno>
+            <idno type="STC">ESTC R32093</idno>
+            <idno type="EEBO-CITATION">12321752</idno>
+            <idno type="OCLC">ocm 12321752</idno>
+            <idno type="VID">59487</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51567)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59487)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1019:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The spirit of the hat, or, The government of the Quakers among themselves as it hath been exercised of late years by George Fox, and other leading-men, in their Monday, or second-days meeting at Devonshire-House, brought to light : in a bemoaning letter of a by G.I.</title>
+                  <author>Mucklow, William, 1631-1713.</author>
+               </titleStmt>
+               <extent>45 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Mucklow by Wing.</note>
+                  <note>Signed at end: G.J.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fox, George, 1624-1691.</term>
+               <term>Society of Friends --  Controversial literature.</term>
+               <term>Society of Friends --  Government.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59487:1" rendition="simple:additions"/>
+            <p>THE SPIRIT of the HAT: OR THE GOVERNMENT OF THE QUAKERS Among Themſelves, As it hath been Exerciſed of late years by <hi>George Fox,</hi> and other Leading-Men, in their <hi>Monday,</hi> or <hi>Second<g ref="char:EOLhyphen"/>days</hi> Meeting at <hi>Devonſhire</hi>-Houſe, brought to Light.</p>
+            <p>In a <hi>Bemoaning</hi> Letter of a certain Ingenious <hi>Quaker</hi> to another, his Friend; Wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rein their Tyrannical and Perſecuting Practiſes are Detected and Redargued.</p>
+            <p>Alſo <hi>Preface to the Reader,</hi> giving an account how <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſaid Letter came to the hand of the Publiſher.</p>
+            <p>By <hi>G. I.</hi>
+            </p>
+            <p>
+               <hi>LO<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>DON,</hi> Printed for <hi>A. Baldwin</hi> in <hi>Warwick <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> 1700. (Price Stitcht 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>)</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:59487:2"/>
+            <pb facs="tcp:59487:2"/>
+            <head>THE PREFACE TO THE Reader.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>THou art here preſented with the Copy of a Letter, wherein thou wilt find (upon reading) a Diſcovery made of the Tranſactions of the <hi>Governing Quakers,</hi> both in ſome of their Perſons ſingly, and in their Body, or <hi>Convention,</hi> joyntly: For thou ſhouldeſt know, that the <hi>Quakers</hi> have for ſome years formed themſelves into a kind of
+<pb facs="tcp:59487:3"/>
+               <hi>Politic-Eccleſiaſtical</hi> Body, and have held their Meetings for matters of Government, e<g ref="char:EOLhyphen"/>very Monday, or Second day of the Week, at <hi>Devonſhire</hi> Houſe: There they take Cogni<g ref="char:EOLhyphen"/>zance of thoſe things that concern them as <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> that is, A party of Folk that deſire to ap<g ref="char:EOLhyphen"/>pear different from all others in Religion, Go<g ref="char:EOLhyphen"/>vernment, Speech, Apparel, Civil Converſe, and what not.</p>
+            <p>Of ſome of their Tranſactions in theſe Meetings, thou mayſt perhaps have read in a Book entituled, <hi>The Quakers Spiritual Court,</hi> writ by one <hi>Smith,</hi> who had been a <hi>Quaker,</hi> but was gone from them. This piece which is now put into thy hands, appears alſo to be writ by a <hi>Quaker,</hi> and one that is ſo ſtill (at the writing of this) in Principle and Practice; but offended at the governing Body, by reaſon of their Defection, as he conceives, from their former Principles in their preſent Practices, as in the Letter it ſelf will more fully appear; wherein he doth not only declare Matter of Fact, but compares it with the <hi>Quakers</hi> Principles, and the Practices of the Apoſta<g ref="char:EOLhyphen"/>tized <hi>Romaniſts,</hi> and others, whom they con<g ref="char:EOLhyphen"/>demn.</p>
+            <p>The <hi>Quakers</hi> are wont to glory in their
+<pb facs="tcp:59487:3"/>
+Profeſſion, as ſtanding not in Word, but in Power: Whereby they ſeem to mean the ex<g ref="char:EOLhyphen"/>cellent Converſation of their People above all others: But if particular Perſons among them tranſgreſs ſo manifeſtly, that it cannot be ex<g ref="char:EOLhyphen"/>cuſed; then they defend themſelves, as others do, by ſaying, That it is no fault of their Principles, but the Perſon, that did not walk according to his Principles; But if it do ap<g ref="char:EOLhyphen"/>pear, as here it doth, that not only as particu<g ref="char:EOLhyphen"/>lar Perſons, but as a Body, they are guilty of the like Tyranny, Oppreſſion, Perſecution, <hi>&amp;c.</hi> as other faulty Bodies or Corporations, I hope we ſhall not ſuffer our ſelves to be impoſed upon by their nauſeous Self-commendations, to be<g ref="char:EOLhyphen"/>lieve that they tranſcend all others, or that their Principles are better than thoſe of other Chriſtians whom they condemn, at leaſt it will not appear from their Practices that they are ſo.</p>
+            <p>I muſt needs ſay, I ſee no reaſon at all, why the Writings of particular Perſons, that are of the greateſt Eminency among them, who write in their Names, and are generally, if not univerſally, approved by them, as written by their true Spirit, ſhould not be imputed to the <hi>Quakers,</hi> as <hi>Quakers;</hi> But that what they
+<pb facs="tcp:59487:4"/>
+do as a Body and Society ſhould reflect upon them as ſuch, I cannot ſee with what face they can deny.</p>
+            <p>I do indeed eaſily foreſee, they will endeavour to invalidate the Evidence that is here given againſt them, from the want of the Author's Name: To which Exception I have this to ſay to the Judicious Reader;</p>
+            <p n="1">
+               <hi>1.</hi> That in truth, I do not know his Name, for that Copy it pleaſed God to bring to my hand, had no Name ſubſcribed, nor was it addreſſed to any; and the Perſon from whom I had it, either cannot, or will not (being per<g ref="char:EOLhyphen"/>haps engaged to the contrary) tell me the Au<g ref="char:EOLhyphen"/>thor's Name.</p>
+            <p>But <hi>(2)</hi> I ſuppoſe the Conſiderate Reader may find ſufficient reaſon, from the intrinſick nature of this Relation, and from the Circum<g ref="char:EOLhyphen"/>ſtances wherewith it is accompanied, to exact of him Credence of the Matters of Fact contained in it; if not, he is at his liberty to judge as he ſhall ſee cauſe.</p>
+            <p n="3">
+               <hi>(3.)</hi> I deſire the <hi>Reader</hi> to conſider what weight is to be put upon, or what credit to be given to the Name of an obſcure Au<g ref="char:EOLhyphen"/>thor, when even Mr. <hi>Pen,</hi> the Son of Sir <hi>William Pen</hi> Deceaſed, hath (for In<g ref="char:EOLhyphen"/>ſtance)
+<pb facs="tcp:59487:4"/>
+failed ſo Egregiouſly in his Book enti<g ref="char:EOLhyphen"/>tuled, <hi>The Spirit of Truth Vindicated,</hi> &amp;c. in anſwer of <hi>The Spirit of the</hi> Quakers <hi>tried,</hi> that in relation thereto, and after a diligent comparing of theſe two pieces, Mr. <hi>John Faldo</hi> in his Book entituled, <hi>Quakeriſm no Chriſtianity,</hi> hath given this Judgment; <hi>But for</hi> Pen<hi>'s ſake I ſhall believe it more than poſſible, that a Man of the higheſt Pretences, having ſome more than ordinary means to deal rightly and ingeniouſly, may yet ſo far deceive my Expectations, as to give the higheſt Contradictions to them all.</hi> Part. <hi>3.</hi> Sect. <hi>1.</hi>
+            </p>
+            <p>And how ordinary a thing is it, in theſe times, for one <hi>Controvertiſt</hi> to charge the other with notorious Falſities in Matters of Fact; what credit then to be given to Mens Names, except other things concur to give teſtimony to their Narratives?</p>
+            <p n="4">
+               <hi>4.</hi> I am not conſcious to my ſelf of any the leaſt injury I have done to the Copy, or undue practice in preſenting it, God knows, I believe the publiſhing it may be uſeful to the Publick.</p>
+            <p>There was one line in the Copy which could not be ſo read as to be made Senſe of, and there<g ref="char:EOLhyphen"/>fore 'twas left out. I ſhall ſay no more, but
+<pb facs="tcp:59487:5"/>
+aſſure the <hi>Reader,</hi> the Author ſeems to me to be faithful and ingenious, however let him judge of him and his work as he ſees cauſe.</p>
+            <closer>
+               <salute>Farewell.</salute>
+               <signed>G. J.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="9" facs="tcp:59487:5"/>
+            <head>
+               <hi>THE</hi> The Spirit of the Hat: <hi>OR,</hi> The Government of the <hi>QUAKERS</hi> among themſelves, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Dear Friend,</salute>
+            </opener>
+            <p>WHat is made known and manifeſted in me, concerning the great Apoſtacy in this day, and what I have ſeen and heard, I am made willing to communi<g ref="char:EOLhyphen"/>cate the ſame, to teſtifie unto the truth thereof.</p>
+            <p>It pleaſed the Lord, about twenty Years ago, to viſit this Nation with his Loving-kindneſs, in ſend<g ref="char:EOLhyphen"/>ing forth a Spiritual-Miniſtry, in the mid'ſt of Wars and Fightings, to turn us from Darkneſs to Light, and to bring us out of the Strife into the Patience of Jeſus, into his Love and Meekneſs, to do good for evil.</p>
+            <p>This Seed being fown, proſpered in the Hearts of many, and brought forth Victory through Judg<g ref="char:EOLhyphen"/>ment, and the Spirit of Burning: And the Lord was wonderfully with them in this Diſpenſation,
+<pb n="10" facs="tcp:59487:6"/>
+that very many came off from the barren Moun<g ref="char:EOLhyphen"/>tains, and out of the ſandy Deſerts, and were here refreſhed, without Money, without Price, and the Bread was broken freely to the Hungry, and Water given freely to the Thirſty: And not only ſo, but likewiſe our Veſſels were filled with the ſame, whereby our Hearts were made glad, and cauſed the Springs of Life to break forth out of our Bellies, and the Bread of Life to dwell within us, that we needed not to go forth out of our own Houſes, having an Holy Anointing within us to ſupply the wants of our Souls, and lead us into all Truth.</p>
+            <p>And the Lord did daily add unto the Church, and raiſed up many to go forth in the Power to Preach the Everlaſting Goſpel, whereby the Church multiply'd and encreaſed to the aſtoniſhment of the Nations.</p>
+            <p>How low and humble were they in their Spirits! how few were they in Words! Their <hi>yea</hi> was <hi>yea,</hi> and their <hi>nay, nay!</hi>
+            </p>
+            <p>Ah! let me take up a Lamentation! How are the Mighty fallen! How have the Stars ceaſed to give their Light! How are the Poor diſtreſſed, and the Young Ones bruiſed, by the High Mountains and Lofty Cedars, whoſe Habitations were once in Hea<g ref="char:EOLhyphen"/>ven, but now upon the High Places of the Earth, to impoſe upon the Conſcience, and to Eſtabliſh an Arbitrary Power by a Law; theſe are the armed Beaſts, and the many Antichriſts, which break the Unity in Spirit, and the Bond of Peace. This brings in Diviſions, cauſeth Differences, contenti<g ref="char:EOLhyphen"/>ons and Emulations: It roots up the good, and eats as doth a Canker, whereby the Unity is di<g ref="char:EOLhyphen"/>vided,
+<pb n="11" facs="tcp:59487:6"/>
+and the Peace broken. But the Unity that the Lord approves of, is for every one to act ac<g ref="char:EOLhyphen"/>cording to his meaſure and growth in the Truth. All are not ſtrong, therefore all cannot be in the ſame Exerciſe, no more than a Child can be found in the Exerciſe of a Man: So that the diſuniting-Spi<g ref="char:EOLhyphen"/>rit doth not barely lie in being of another Mind and Judgment, but in the impoſing of its Judg<g ref="char:EOLhyphen"/>ment and Practice; which appears plainly by <hi>Paul,</hi> who clearly judged that the ground of the Diffe<g ref="char:EOLhyphen"/>rences in the Church, lay very much in the judging one another in Meats and Drinks, <hi>&amp;c.</hi>
+            </p>
+            <p>It's the great Promiſe of the Father in theſe latter Days, That he will write his Laws in our Hearts, and put his Spirit into our inward Parts, to lead us into all Truth, and out of all appearances, which his Spirit manifeſts in us to be in the Imitation, and after the Traditions of Men.</p>
+            <p>Is it then reaſonable for the Spiritual Man to be found in the practice of doing, before a Law writ<g ref="char:EOLhyphen"/>ten, but rather wait at the Feet of Jeſus till God Reveals. And he that walks according to this Rule, ſhall know his Doctrine, and be led to behold his Glory, and Witneſs an Unity in Spirit with his Brother, though in a different Exerciſe.</p>
+            <p>How doth this differ from the World's and the <hi>Foxoman</hi>-Unity, which is to yield ſubjection to the Order of the Body, (ſo called) though no manifeſtation within. And this Unity they glory in; by this is their Kingdom upheld; from this they are able to boaſt, Who is able to make War with us? Who can ſtand before us? Do not all fall that have riſen up againſt us? Are not theſe the high ſwelling Words of proud <hi>Babel,</hi> whoſe towri g
+<pb n="12" facs="tcp:59487:7"/>
+thoughts muſt be abaſed? Whoſe practice hath been to Cruſh the Tender Ones, in their Bodies, Souls, and Spirits. This Language hath mine Ears heard, this practice hath mine Eyes ſeen, to the grief and wounding of my Soul.</p>
+            <p>This combined Unity I have no pleaſure in; its Nature is known by its Image, its Birth by the ex<g ref="char:EOLhyphen"/>erciſe of its Power.</p>
+            <p>My Friend Obſerve; What difference is there in theſe things between <hi>George Fox</hi> and the <hi>Papiſts?</hi> The one ſaith, <hi>No Liberty out of the Church:</hi> The other, <hi>No Liberty out of the Power,</hi> Saith the <hi>Papiſt, What Liberty to the Sectary?</hi> No: <hi>What Liberty to the Heretick?</hi> No. And <hi>George Fox</hi> ſaith, <hi>What Liberty to the Presbyter?</hi> No: <hi>What Liberty to the Independant?</hi> No: <hi>What Liberty to the Baptiſt?</hi> No. <hi>Liberty</hi> (ſaith he) <hi>is in the Truth.</hi> The difference lies only here, The one hath greater Power to compel than the other.</p>
+            <p>The <hi>Papiſts</hi> ſay, <hi>Believe as the Church Believes:</hi> So likewiſe ſaith <hi>G. Fox:</hi> But I ſay Nay, I am not to believe a thing barely becauſe the Church be<g ref="char:EOLhyphen"/>lieves it, but becauſe it's manifeſted in me, elſe I am to wait till God Reveals it. I was told the a<g ref="char:EOLhyphen"/>boveſaid by two there preſent.</p>
+            <p>The Church of <hi>Rome</hi> claims a Power of Excom<g ref="char:EOLhyphen"/>munication (of them) that will not ſubmit to their decent and comely Order, though in it ſelf the thing be meerly Circumſtantial, Ceremonial, or (as they term it) indifferent; and their reaſon is, It Judgeth the Power, and ſmites at the Authority, and (ſay they) it's an Inlet to Diviſion and there<g ref="char:EOLhyphen"/>by is Unity violated.</p>
+            <p>Behold a reſemblance thereof, it hath been often
+<pb n="13" facs="tcp:59487:7"/>
+ſaid unto me, The <hi>Hat</hi> is nothing, but it is out of the comely Order, it judgeth Friends, who are in the Power, who teſtifie againſt it, and it breaks the Unity; and therefore we cannot ſuffer ſuch to Marry or Bury, nor to partake of any Priviledge as a Member of the Body; and this is in the ſub<g ref="char:EOLhyphen"/>ſtance Excommunication: For Excommunication chiefly lies in a Man's being deprived of the Bene<g ref="char:EOLhyphen"/>fits, and put out of the Protection of the Law, as alſo from being a Member of the Church.</p>
+            <p>The Severity is the ſame with us, for where could I Marry or Bury, if we were an intire Nati<g ref="char:EOLhyphen"/>on? Or how can I take a Wife without a Witneſs? Or how can I have a Witneſs, if to be one is lyable to the ſame Miſery.</p>
+            <p>Selected Bodies ought to be found in the Exerciſe of Moderation, Tenderneſs, and Mercy, as if they were a Nation. I always find, when once ſuch put forth their Hands to afflict for Conſcience ſake, as their Power groweth ſtrong, ſo doth their Oppreſſion.</p>
+            <p>But perhaps they would ſay, We do not eject for Conſcience ſake, but becauſe of an obſtinate Will, which oppoſeth Friends.</p>
+            <p>The <hi>Papiſts</hi> juſtifie themſelves by ſaying of the ſame. I remember a Judge likewiſe made the ſame reply when a Friend mentioned Conſcience. Cer<g ref="char:EOLhyphen"/>tainly it cannot be an Evil in one, and Right in the other, no more than it is Cruelty in the <hi>Papiſts</hi> Perſecutions, and Juſt in the <hi>Proteſtants.</hi>
+            </p>
+            <p>It will be a noble Example in thoſe that ſtand upon the Advantage-ground to Act in Moderati<g ref="char:EOLhyphen"/>on, Tenderneſs and Mercy. And although it is the Policy of the World's Churches, <hi>&amp;c.</hi> under a
+<pb n="14" facs="tcp:59487:8"/>
+pretence for Unity, not to hear the tender Con<g ref="char:EOLhyphen"/>ſcience, yet the Church of Truth will; and where they are found, will account them as Brethren, and not to think it a ſufficient ground to refuſe them after Admonition, if they perſiſt, but to wait till God perſwades them. And this is the Royal Law of Liberty, the other is the Yoke of Bondage, from which we are not to be entangled after the Tradi<g ref="char:EOLhyphen"/>tions of Men.</p>
+            <p>This great Charter of Liberty is violated, and greatly broken in many particulars: If I have a Cauſe before the Elders, but eſpecially if I am a Diſſenter, it's frequently urg'd, give it to Friends; if I do not, a farther Snare is offered, namely; <hi>Doſt thou believe <g ref="char:V">Ʋ</g>s to be in the Power of God?</hi> If I ſay, Yea; then, <hi>What wilt thou not leave it to the Power of God in Friends? Thou art in confuſion to believe <g ref="char:V">Ʋ</g>s to be in the Power, and yet durſt not truſt to the Judgment of the Power.</hi> To my knowledge, this is a capital Crime accounted.</p>
+            <p>What greater Uſurpation can there be than this, to claim my Right from me into their Breaſts? For though the Elders may be preſerved in the Power this Year or Seaſon, they may apoſtatize from the Truth, and yet claim the ſame Prerogative over my Propriety; hereby a Tyranny may be entail'd upon my ſelf, by laying of ſuch a Foundation.</p>
+            <p>A moſt incomparable Inſtance is the Church of <hi>Rome,</hi> who was in the Power and Glory of God; howbeit through Pride ſhe loſt it, yet gain'd, through Subtilty, the Prerogative before mentioned, to give up unto her Judgment, and to believe as ſhe be<g ref="char:EOLhyphen"/>lieves, to the Deſtruction of many thouſands: So that it clearly appears, the Spirit that claims ſuch a
+<pb n="15" facs="tcp:59487:8"/>
+Power, under pretence of being in the Power, is the Spirit of Exaltation: and I know, that thoſe Perſons that have been moſt confident in the claim, under the ſame pretence, have committed great miſtakes; and thereby Truth hath been depreſſed, and Error cheriſhed.</p>
+            <p>I ſuppoſe I may affirm that in all Ages, Truth hath not been perſecuted as Truth, but as Error; I could inſtance, that many in the great Aſſemblies in <hi>London,</hi> have not only been diſſatisfied with the reſt of their Brethrens Actings, though they made uſe of the Name of the Lord. Both theſe cannot be right, yet both claim the ſame Power in Judg<g ref="char:EOLhyphen"/>ment: Otherwhiles ſubmit (through fear) unto the Judgment of the more eminent, though it doth not at all correſpond with their underſtandings. If one part of the Body be liable to miſtakes, why not the other? And if the Spirit, as they are a Body, is to be Judge and Determiner of Things; by what Spirit ſhall I know which is in the right? How needful is it therefore to be joyned to our own, in the particular, conſidering how lyable man is to err; yea, in petty Matters. And I know, an Oppreſſive Act done by a Select Body, having Power, is by very few clearly diſcerned; but when done by a private Perſon, every weak-ſighted Man can then diſcover it to be an Oppreſſive Act: And ſo the evil Actions of Great Ones are judged leſs Criminal, and the Perſons leſs Faulty than in Juſtice they ought to be.</p>
+            <p>The Churches of Men are ſtill ſetting up them<g ref="char:EOLhyphen"/>ſelves one above another; but the Aſſemblies of the true Church are all equal, having Chriſt the Light equally preſent with and in them: and therefore
+<pb n="16" facs="tcp:59487:9"/>
+Friends of one place, cannot ſay they have Power over Friends in another place, ſeeing all may be li<g ref="char:EOLhyphen"/>able to have Chriſt the Light alike, in and among them; elſe Chriſt his Spirit, in ſeveral places, ſhould be above, and under themſelves: But Chriſt in each Aſſembly of the Faithful is their Head; and this Head they do not leave, to ſet up a fleſhly Head to themſelves, whether it conſiſts of one or many of them; ſeeing Antichriſt doth as ſtrongly invade Chriſt's Headſhip in many, as in one Man; in a Councel, as in a Pope; in <hi>George Fox</hi> and the Body, as either.</p>
+            <p>This Spirit of Antichriſt in <hi>G. Fox,</hi> &amp;c. would wreſt from me what I am not willing to part with<g ref="char:EOLhyphen"/>al, to wit, my Conſcience, under no leſs Penalty than Excommunication; which is as far as in them lies, the loſs both of Heaven and Earth; of Heaven by Excommunication, of Earth by Deprivation; and this without Redemption, unleſs complying with his or their Will and Pleaſure; and for no other cauſe, than for the omittance of a very ſmall Ceremony, which they hold neceſſary to Salvation; like the Circumciſion of old, who Preached, <hi>
+                  <g ref="char:V">Ʋ</g>nleſs they were Circumciſed, they could not be Saved.</hi> But perhaps they will ſay, We do not Excommunicate thee, yet we cannot own thee in thy Error. I anſwer, It's one thing not to own a Man in a particular, and another thing ſo to diſown him, as wholly to exclude him from Protection: For if I am once accepted of as a Member, and after caſt off as not being a Member, I ſhall leave it to the Sober what to call it. Perhaps they will ſay, <hi>This caſting off was not for the thing,</hi> (as indeed it hath been ſaid unto me) <hi>but for the
+<pb n="17" facs="tcp:59487:9"/>
+contempt.</hi> I may rather ſay, Sure the greater the cruelty, to lay an Injunction upon ſo ſmall a matter, that draweth after it ſo deep a Cenſure, as to caſt a man out of the Church. Suppoſe a Magiſtrate did command a trivial matter, ſome Ceremony or other, under pain of Treaſon, and ſhould proc ed againſt the Infringers of this Command as Trai<g ref="char:EOLhyphen"/>tors; it were much to be doubted, whether the Command did not partake more of Cruelty, than the Diſobedience of Contempt: For where Au<g ref="char:EOLhyphen"/>thority ſhall ſo far loſe it ſelf, as to lay ſo great a weight upon ſo ſmall a matter, it rendreth it ſelf contemptible, and then it's no marvel if it be con<g ref="char:EOLhyphen"/>temned, having made it ſelf contemptible. What will our Lord do unto theſe that ſhall be found beat<g ref="char:EOLhyphen"/>ing their Fellow-ſervants, and driving them from their Dwellings?</p>
+            <p>Again, whoſoever ſquares his Actions in things religious by the Spirit's requirings, he is a bad ſpirit, <hi>&amp;c.</hi> Whoſoever would be governed by the great Law, <hi>To do as he would be done unto,</hi> he is out of the Truth; He that will not do what others would have him to do, he is wilful, ſtubborn, and obſtinate.</p>
+            <p>If the Body ſaith, It is to be ſo or not ſo, (tho' <hi>two thirds</hi> of them are otherwiſe minded, yet are ſilent) and if it ſhall happen for one to oppoſe the thing with much moderation, and the ſaid <hi>two thirds</hi> ſhall in their ſpirits unite with him, yet notwithſtanding a few of the combined Elders will bring him to the Bar, and unle s he will own Condemnation, Judgment ſhall paſs againſt him, with ſuch an imperious Authority, that the others dare not open their mouths, ſo that their arbitrary
+<pb n="18" facs="tcp:59487:10"/>
+Commands they can impoſe upon their Fellow-Members. They proceed further, ſaying, He that will not ſubmit to the Body, oppoſeth God and his Truth; And they make the Body the Touch-ſtone, ſaying, This is according, or not according to Truth, as the Body hath Unity or not Unity with it; and ſo by this practice the Spirit of the Lord is to be tryed, and judged by the Body. This hath <hi>two</hi> parts, to deprive us of the Law of the Spirit, and to bring in a tyrannical Government; it would lead us from the Rule within, to ſubject us to a Rule without.</p>
+            <p>It is aſſerted in Print, that if I believe the Light within me directs me to a thing, and the Body ſhall not have unity with it, it is ſafer for me to rely upon the judgment of the Body. I remember about a <hi>dozen</hi> of the great ones ſubſcribed a Paper to this effect, and ſent it to <hi>Hartford,</hi> but it was there much diſliked: There was this alſo in it, That if any perſon had (as he thought) a command from God, to do a thing, or to put forth a thing in Print, he muſt firſt come and lay it before the Body, and as they judge, he muſt ſubmit. Is not this an Arbi<g ref="char:EOLhyphen"/>trary Government, bounded by no Law, but what <hi>G. F.</hi> and a few more pleaſe? Herein the ground of our Liberties is taken from us, (to wit) To live, act, and judge according to the Law within. In this is the diſtribution of Juſtice, and he that is overawed by a power without, ſtifles and ſtrangles true Judgment, which ariſeth in himſelf; by this is Juſtice and true Judgment obſtructed and violated. It's the higheſt uſurpation of our juſt Liberties; For when ſuch Principles are eſtabliſhed, they are not eaſily laid down, they have encroached
+<pb n="19" facs="tcp:59487:10"/>
+Juriſdiction where none was, taking upon them a Power to judge and domineer over the Innocent, over the Conſciencious, over the tender in Spirit, by new Laws which the Spirit never gave forth, nor hath unity withal, nor many of the Body, which through fear oppoſe not theſe things. They go higher; they ſay, Their Judgment is God's, and their Acts are as binding as God's, it proceeding from the Spirit of the Lord in the Body: Their Judgments are ſo poſitive from God and for God, and their Cenſure ſo ſevere, which cauſeth a faint-heartedneſs in the weaker, to ſpeak ac<g ref="char:EOLhyphen"/>cording to their meaſure, leſt they ſhould diſ<g ref="char:EOLhyphen"/>pleaſe the Body, and be brought to Judgment. It is a dangerous evil for any Man, Men, or Coun<g ref="char:EOLhyphen"/>cel, to make him or them Lords, or Lawgivers in the Church: Chriſt himſelf being the immediate Lawgiver, and Judge in this the Day of his Power. Men have commonly thought, that to preſerve the Church in Peace, is to ſuppreſs Error; whereas to preſerve them in Faith and Love, with the Father, Word and Spirit, this is rather to preſerve the Church.</p>
+            <p>How many perſons, under pretence of healing the Body, wound it ſtill deeper; and under pre<g ref="char:EOLhyphen"/>tence of preſerving its Peace, hurry it into endleſs Diſſentions; or reduce People to a Formal Faith! Doth not the aboveſaid Body practiſe the ſame? Yea. Ah! How do they build up that which they once pulled down; and do that themſelves which they have condemned in others! Ah! That they would ſuffer the Word only to be the Rule in the Kingdom, and the Light thereof alone to ſhine
+<pb n="20" facs="tcp:59487:11"/>
+there, and not to walk in the light of their own Fire, and in the Sparks which they themſelves have kindled, whereby they may lie down in ſorrow, whilſt they neglect the true Light, which lighteth every man that comes into the World.</p>
+            <p>In the true Church, Unity ſtands in diverſities; But in the falſe, Unity will not ſtand without Uni<g ref="char:EOLhyphen"/>formity. And it is greatly to be lamented, how that very many will do nothing without the Autho<g ref="char:EOLhyphen"/>rity of the Body, tho' it be never ſo clear in them; and this ſets up the Body above Chriſt.</p>
+            <p>And becauſe a further diſpenſation is not reliſhed by the Elders, the which they hide from the In<g ref="char:EOLhyphen"/>feriours, leſt their glory ſhould be Eclipſed, and draw the reſt from a dependence upon them: They content themſelves with this limited Mini<g ref="char:EOLhyphen"/>ſtration, and ſet up Tabernacles here for their Re<g ref="char:EOLhyphen"/>ſidence; which is above, and beſide the Spirit of the Lord's teaching, which leads us on to know and follow the Lord. Theſe are they that ſtop <hi>Iſrael</hi>'s travel out of all appearances, which his Spirit leads not to; Theſe are they that lay ſtumbling-blocks in the way in their Journey: Theſe are they that will not have the Lord's People, Prophets; that their Perſons may be ſtill had in Admiration for advantage ſake: elſe, what meaneth it, that certain Perſons are appointed to ſpend the whole time in ſpeaking in every Meeting, and all the reſt to come as Hearers, neglecting the Gift in themſelves, only waiting upon their Lips. When as often<g ref="char:EOLhyphen"/>times freſh Springs ariſe in particulars, to make glad and comfort the Hearts of others: But through the long Declarations and Diſcouragement, withal,
+<pb n="21" facs="tcp:59487:11"/>
+the Springs are ſtopt, and the tender nipt. Ah! God will viſit you for theſe things. And certainly if this Babyloniſh practice had not been exerciſed, his precious Truths had been publiſh'd in the mouths of thouſands more, and 10000 more to the know<g ref="char:EOLhyphen"/>ledge thereof would have been brought; a greater growth in the Truth witneſſed, and the Mind and Will of the Lord more revealed; a greater diſcove<g ref="char:EOLhyphen"/>ry of the Man of Sin within and without us, by the tranſcendent brightneſs of the Everlaſting Day, which will again break forth, and recover the ground which hath been loſt; open the Myſteries which are yet hidden, break the Serpent's head, and wound the <hi>Leviathan.</hi> Amen, <hi>Halelujah.</hi>
+            </p>
+            <p>Moreover, as others before them ſet up the Scrip<g ref="char:EOLhyphen"/>tures above the Spirit, in having that to be the Tryal, Touch-ſtone, Standard of Doctrine Wor<g ref="char:EOLhyphen"/>ſhip, and of all Spirits; ſo do they greatly err in ſet<g ref="char:EOLhyphen"/>ting up the Body above the Spirit, in having the Spirit tried by the Body; the one ſaith, <hi>The Scrip<g ref="char:EOLhyphen"/>ture is the Rule;</hi> but in truth, the Meanings they make the Rule: The other ſaith, <hi>The Spirit</hi> (and not the Scripture) <hi>is the Rule;</hi> but the Dictates of the Body they make the Rule. For if I walk ac<g ref="char:EOLhyphen"/>cording to my Meaſure, and my Meaſure is my Rule, and it differs from the judgment of the Body; by their Rule I am to deny my Motion, becauſe it anſwers not the Mind of the Body; for they lay down this as an infallible Rule, That <hi>the Body will have a true ſenſe, feeling, and underſtanding of Mo<g ref="char:EOLhyphen"/>tions, Viſions, Revelations, Doctrines,</hi> &amp;c. <hi>and there<g ref="char:EOLhyphen"/>fore ſafeſt to make Her my Touch-ſtone in all things relating to God.</hi>
+            </p>
+            <p>Ah! that ſhe would return from whence ſhe is
+<pb n="22" facs="tcp:59487:12"/>
+fallen, and repent, that the Crown may again be ſet upon Her head.</p>
+            <p>The ſame Arguments which the Pope, <hi>&amp;c.</hi> makes uſe of to ſupport himſelf, the Body uſeth, and ſe<g ref="char:EOLhyphen"/>vere judgment is denounced againſt him that ſhall ſpeak a word againſt the Authority of the Body, as it is againſt him that ſhall ſpeak againſt the Power and Authority of <hi>Rome.</hi> And as it was and is a common practice for the Pope to eſteem Drunkards, Whoremongers, <hi>&amp;c.</hi> far better than <hi>Non-confor<g ref="char:EOLhyphen"/>miſts,</hi> even ſo it is with the Body at <hi>Devonſhire</hi>-Houſe.</p>
+            <p>If a <hi>Non-conformiſt</hi> endeavours to bring to light the viciouſneſs of the Prieſts, they will have ways to prevent him, either to raiſe ſome Accuſations, or ſome other cunning Evaſion. The Body practiſeth the ſame, as I could inſtance, and may, when oc<g ref="char:EOLhyphen"/>caſion offers.</p>
+            <p>I have heard, from a credible hand, what a ſo<g ref="char:EOLhyphen"/>lemn Meeting there was appointed by <hi>G.F.</hi> and others of the Elders, to Judge and Condemn ſeve<g ref="char:EOLhyphen"/>ral Men and Women of good report; and ſhelter, cover, and hide the wanton practices of others: and the more effectually to diſcourage perſons from diſcovering theſe wanton and unclean Miniſters, to ſome they would ſay, <hi>Let it fall, bad Spirits will get it, and reflect upon good Friends;</hi> to others, <hi>Thou art an unclean Spirit, raking in Mire and Dirt, to lay open the Miſcarriages of others;</hi> By which means the Adulterer goes free; only perhaps private re<g ref="char:EOLhyphen"/>proof paſſeth upon him.</p>
+            <p>Conſider, O Friends! Is it right to cover the Whoredoms of the wanton Miniſtry, <hi>&amp;c.</hi> and un<g ref="char:EOLhyphen"/>clean Strumpets? and judge ſo openly the miſtake
+<pb n="23" facs="tcp:59487:12"/>
+of a perſon, when the Actions were true, and in the ſame Houſe. Is not this apparently to diſcou<g ref="char:EOLhyphen"/>rage perſons from diſcovering theſe things, and en<g ref="char:EOLhyphen"/>couraging of the other in their filthy and defiled Converſations? whom God will judge. <hi>He that juſtifieth the wicked, and condemneth the Innocent, is an abomination to the Lord.</hi>
+            </p>
+            <p>Again, thoſe that forbore the cuſtom of their Hats in Prayer, could not partake of their Rights as a Member, until a Renunciation thereof, and for no other cauſe; when Zealots for that form (tho' guilty of uncleanneſs, and other vile abominations, and the perſons accuſed for the ſame, yet) allow'd to miniſter as a Teacher, and employed in the Ser<g ref="char:EOLhyphen"/>vice for the Body.</p>
+            <p>Such was the rigidneſs, That perſons only ſu<g ref="char:EOLhyphen"/>ſpected to favour the forbearers of the <hi>Hat,</hi> muſt bear a publick Teſtimony againſt them and their Spirit, or elſe be liable to be diſown'd. If they were not drunk with an Arbitrary Power, they might ſure find out a <hi>medium</hi> (for the omittance of ſo ſmall a Ceremony) between an Ejection and an Approbation, between owning a perſon, and not gi<g ref="char:EOLhyphen"/>ving him a liberty to exerciſe his Conſcience.</p>
+            <p>If this kind of Judicature had been ſet up in the Apoſtles days, what Confuſions, what Diſorders, what Diviſions, what Rents, and Breaches had there been in the Church? there being ſome that held a neceſſity of keeping the Ceremonial Law, others not; ſome for keeping of Days, others eve<g ref="char:EOLhyphen"/>ry Day alike, ſome for eating of Meats, others of Herbs; ſome for Circumciſion, others not. And <hi>Paul,</hi> to preſerve the Unity, notwithſtanding theſe differences, writ, not to judge one another in
+<pb n="24" facs="tcp:59487:13"/>
+Meats, <hi>&amp;c.</hi> but to wait till God reveals it to him. And if <hi>G. F.</hi> and the Body had but this moderation, what a Harmony, what a Unity would there have been amongſt us!</p>
+            <p>The <hi>Papiſts</hi> had a way to try all ſuſpected Perſons by, namely, that they call the Sacrament of the Al<g ref="char:EOLhyphen"/>tar; the <hi>Proteſtants</hi> the Oath of Allegiance and Su<g ref="char:EOLhyphen"/>premacy, as alſo the Renunciation of the Covenant; the <hi>Presbyter</hi> the Covenant it ſelf: And this Body tries ſuſpected Perſons by this, namely, <hi>Haſt thou given Teſtimony againſt the Spirit of the Hat?</hi> I could never get any of them to define what this Hat-Spirit is. And as the <hi>Papiſts</hi> (to render the <hi>Proteſtants</hi> odious) ſtyled them <hi>Hereticks;</hi> the <hi>Pro<g ref="char:EOLhyphen"/>teſtants, Phanaticks, Puritans;</hi> and all Sects call us in ſcorn <hi>Quakers;</hi> and the ſame Spirit of reproach hath entered this Body, in ſtiling the forbearance of the <hi>Hat, Hatters, Hat-men.</hi> If any may have that Appellation, it's rather due unto you, who keep it off upon a Religious Account, than upon thoſe who keep it neither off nor on upon a Religi<g ref="char:EOLhyphen"/>ous Account. They of the Circumciſion were ſo called, not becauſe they forbore the practice of that Act, but becauſe they ſtill continued in it; and it's prepoſterous to give <hi>Nick-names</hi> unto perſons for not doing of a Thing by the name of the Thing. We were called <hi>Quakers,</hi> becauſe we trembled at his Word, not becauſe we did it not.</p>
+            <p>We diſpleaſed Man, becauſe we do not uncover our Heads before him; we ſay, and ſay true, true Reſpect doth not lie in the uncovering of our Heads; a pitiful low thing to lay honour and reſpect in a <hi>Hat;</hi> we ſay, it's the honour below which periſh<g ref="char:EOLhyphen"/>eth: We ſay, it's an honour that may be trampled
+<pb n="25" facs="tcp:59487:13"/>
+upon, and laid in the Duſt, (as <hi>William Baley</hi> and others well ſaid, and many of theſe men that have born this faithful Teſtimony, are ſo far backſlidden, that they ſay there is a Reſpect and Reverence due unto God in it); Let the Judicious judge, whether the Honour and Reverence which they give God in this thing, according to their own words, be not the honour below, which periſheth.</p>
+            <p>They do not deny the giving of this Cap-honour unto Men, becauſe there is honour in it, but becauſe there is no ſolidity in it, for juſt and true honour they acknowledge is due unto Superiours; and al<g ref="char:EOLhyphen"/>tho' <hi>G. F.</hi> and others have trampled upon this Hat-honour as the moſt vile Excrement, yet he and they do ſay unto us, <hi>You give no more reverence unto God, than unto a Horſe.</hi>
+            </p>
+            <p>Is it not ſtrange that theſe men ſhall lay ſo much ſtreſs upon a <hi>Hat,</hi> as a Duty due unto God, when they have look't upon it as a poor low thing when Man hath required it; and to make us more odious, we are called <hi>Ranting-Spirits,</hi> when we do abhor and abominate that monſtrous Principle. It's pro<g ref="char:EOLhyphen"/>bable many do forbear that practice, what then? muſt I therefore be a <hi>Ranter?</hi> Nay ſurely, no more than they are <hi>Papiſts</hi> that are in the ſame Exerciſe with them in this outward Obſervation. The <hi>Ran<g ref="char:EOLhyphen"/>ter</hi> gives no honour at all unto God, neither inward nor outward, but makes a deriſion at the Name of the Lord.</p>
+            <p>We do not forbear the <hi>Hat</hi> in this diſdain, or for want of reverence to the Holy, Pure God, (for if he required it, I believe we could not only offer that, but our lives alſo) in the Service of the Lord, and for his Truth: but becauſe he doth not require
+<pb n="26" facs="tcp:59487:14"/>
+this of us, but rather a more Spiritual Reverence: It is therefore an abuſe to be ſtiled <hi>Ranting-Spirits.</hi> It is a true Saying, and worthy our Obſervation, <hi>That they conſpire together to deſtroy the Child Jeſus in us.</hi>
+            </p>
+            <p>Theſe ill Miniſters conjoyn together to ſubvert our Laws and Liberties, given by the Great <hi>Jeho<g ref="char:EOLhyphen"/>vah,</hi> by obſtructing or denying of Juſtice, (if they apprehend it ſutes not to their Intereſt) which is as the Life and Blood to the Body, and doth give warmth and motion to every Member, which is nouriſhed and enlivened by it, but being once ſtop<g ref="char:EOLhyphen"/>ped and ſeared up, as the particular muſt of neceſ<g ref="char:EOLhyphen"/>ſity faint and languiſh, ſo muſt the whole frame be diſſolved; and aſſuredly, tho' they are lifted up, as it were, unto Heaven, in their proud imaginati<g ref="char:EOLhyphen"/>ons, the Righteous God will blaſt all their exalted expectations, and they ſhall die and periſh in the general diſſolution; becauſe they have not regarded the Fatherleſs, nor pitied the poor in Spirit, nor compaſſionated the tender Conſcience, which fear<g ref="char:EOLhyphen"/>ed to ſin againſt the Lord, but cruſhed, ſpoyled, and oppreſſed (without bowels of mercy) thoſe that had little ſtrengh to help themſelves: invaded their Rights, violated their Liberties, endeavoured to take the Meat from the Children and give it unto Dogs.</p>
+            <p>Heretofore, before they were high and mighty, they were the Balm of <hi>Gilead,</hi> which healed our Wounds, reſtored our Spirits, and ſhewed us the way of Salvation; but of late years, like the Fig<g ref="char:EOLhyphen"/>tree mentioned in <hi>Luke,</hi> without efficacy, without Fruit, only deſtructive to the particular Members, who diſcharge their Duties and Conſciences;
+<pb n="27" facs="tcp:59487:14"/>
+whereas they ſhould be like the good Old-man, who dieth in a full age, after he hath fought a good Fight, and overcome the Evil one; they ſhould be like the Shock of Wheat which cometh in, in due ſeaſon, to uphold our lives with the ſtaff of Bread; and not unjuſt Judges to overthrow our Liberties) nor proud Elders, to overthrow the Goſpel. One thing more to add, and perhaps thou haſt not alto<g ref="char:EOLhyphen"/>gether forgotten it; it is this:</p>
+            <p>
+               <hi>G. F.</hi> being very ſick and weak for a long time, a tender Love roſe in the heart of <hi>W. Goſnal,</hi> to give him a friendly Viſit, and when he came into his Chamber, <hi>G.</hi> was tranſported into ſuch an high Paſſion, and uttered ſuch vehement and violent words againſt him, that many there preſent in the Room, were almoſt aſtoniſhed thereat; It was for this cauſe <hi>W. G.</hi> long before ſignified unto <hi>Samuel Newton</hi> his apprehenſions, that <hi>G. F.</hi> would have ſtrukcen him, (of this more hereafter) and he being lifted up in his Spirit, like <hi>Lucifer</hi> he uttered words to this effect; <hi>Friends, Although I have not yet told it you, I do now declare it, I have power to bind and to looſe whom I pleaſe.</hi> How hath <hi>Solomon Eccles</hi> fed this exalted ſpirit, who puts forth theſe words, <hi>Stand up.</hi> Muggleton <hi>the Sorcerer, whoſe mouth is full of Curſing, Lies, and Blaſphemy, who calleſt thy laſt Book a</hi> Looking-Glaſs <hi>for</hi> G. Fox, <hi>whoſe name thou art not worthy to take into thy mouth, who is a Prophet indeed, and hath been faith<g ref="char:EOLhyphen"/>ful, in the Lord's Buſineſs in the beginning It was ſaid of Chriſt, that he was in the world, and the World was made by Him, and the World knew him not: So it may be ſaid of this true Prophet, whom</hi> John <hi>ſaid, He was not; but thou wilt
+<pb n="28" facs="tcp:59487:15"/>
+feel this Prophet one day as heavy as a milſtone upon thee; and although the World knows him not, yet he is known.</hi>
+            </p>
+            <p>Certainly ſuch Expreſſions are not fit to be given unto man; and to lift up one in this nature above his Brethren, is of dangerous Conſequence. Surely this mortal hath been greatly puft up by ſuch fawn<g ref="char:EOLhyphen"/>ing, flattering <hi>Paraſites;</hi> Or elſe he would never ſuffer perſons to kneel before him: It is done upon two occaſions, tho' in a very private manner, and but by a few. The one is when he ſends you forth to Adminiſter; the other is upon ſome miſdemea<g ref="char:EOLhyphen"/>nour committed by a Miniſter, and upon the ac<g ref="char:EOLhyphen"/>knowledging of his fault upon his bended Knees, then <hi>G.</hi> abſolves him. Such is the abſolute power which he takes to himſelf, That he will break open Letters, and alter the Contents. One of the moſt eminent Miniſters amongſt them, being of a mode<g ref="char:EOLhyphen"/>rate ſpirit, writ as in the name of the Lord, judg<g ref="char:EOLhyphen"/>ing both thoſe that kept the <hi>Hat</hi> off or on, in a wil<g ref="char:EOLhyphen"/>ful, oppoſite, contentious ſpirit; But as for thoſe that kept it off, or on, as to the Lord, thoſe he nor the Spirit of the Lord did not judge, or words to this purpoſe: he blotted out a line or more, and writ over it clearly another ſenſe, to wit, <hi>That he did judge thoſe that kept it on, and not thoſe that kept it off,</hi> and <hi>John Whitehead,</hi> who writ the Letter, knew not of it.</p>
+            <p>My heart is often-times grieved within me, and my ſpirit oppreſſed with Sorrow, when I call to mind their Lowlineſs, and their Plainneſs in Ap<g ref="char:EOLhyphen"/>parel! Ah, how did their Countenances and Gar<g ref="char:EOLhyphen"/>ments ſuit with their Preaching of the Croſs of Jeſus, and very many were brought by their Mi<g ref="char:EOLhyphen"/>niſtry,
+<pb n="29" facs="tcp:59487:15"/>
+out of Rich-clothings: But behold a Won<g ref="char:EOLhyphen"/>derly Theſe Miniſters, in a ſhort ſpace, got into the Rich-Habits, <hi>to wit,</hi> Beaver Hats, Camlet Cloaks, the fineſt of the Cloath, not inferiour to the Merchants of the City, ſetting aſide their <hi>Lace</hi> and <hi>Ribbands.</hi> It hath been their lot to be haled (with violence) out of the Aſſemblies of Profeſſors, for bearing of faithful Teſtimonies and thruſt into Priſon. Did I think to ſee the ſame violence offered in our Aſſemblies! Nay, but with Sorrow, mine Eyes I have ſeen pulling down, haling out, and thruſting forth of our Meetings, and they went to the utmoſt, as far as their power; And doubtleſs they wanted not Will, but Power to Puniſh. Theſe ravening Wolves, which worry and prey upon the Flock, boaſt themſelves to be <hi>Peers</hi> in this Se<g ref="char:EOLhyphen"/>lected Body? and affirm, That if any of them commit a fault their <hi>Peers,</hi> or their equals, are only to be their Judges, and not the <hi>Laity,</hi> or Commo<g ref="char:EOLhyphen"/>nalty, ſo that in their Selected Aſſemblies, theſe keep the Inferiours at ſo great a diſtance, and their Spirits are ſo over-awed, that they dare not (but ſeldom) contradict the ſayings of the moſt emi<g ref="char:EOLhyphen"/>nent Elders.</p>
+            <p>It fell out that poor <hi>James Claypoole</hi> contradicted, and that with much moderation, the imperious Elder, <hi>John Bolton,</hi> for ſaying unto a maid, <hi>That ſhe was firſt to ſee the evil in her ſelf, before ſhe judged it, and not</hi> (ſaith he) <hi>becauſe we ſay it.</hi> This poor man, for this preſumption, was firſt to acknowledge his Error: Yet he in private confeſt it to be no Error; But being a man of peace, would rather bear his burthen, then to ſtand againſt, or contend
+<pb n="30" facs="tcp:59487:16"/>
+with ſo great an Elder. How is it poſſible the Young ones can ſpeak their minds freely, when they are thus curbed and overawed? By this means a few will ſway a Meeting which way they pleaſe, un<g ref="char:EOLhyphen"/>leſs the <hi>Peers</hi> are in Competition, then they meet as two great waters, ready to overwhelm one ano<g ref="char:EOLhyphen"/>ther, with their aſſerting both <hi>in the Name of the Lord.</hi> To prove this, I ſhall give thee a few preg<g ref="char:EOLhyphen"/>nant inſtances.</p>
+            <p>The <hi>Firſt</hi> is concerning the Marriage of <hi>John Oſgood,</hi> who is well known to be a man of Mode<g ref="char:EOLhyphen"/>ration, Sobriety, and of a deep Judgment, own<g ref="char:EOLhyphen"/>ing and holding forth, as occaſion offered, the Principles delivered; and he was held in ſuch re<g ref="char:EOLhyphen"/>putation, that I know no mans Counſel had a greater influence upon, and acceptance with the Meeting than his; But after he came to forbear the Exerciſe of the <hi>Hat</hi> in Prayer: The Zealots for that practice, did uſe their utmoſt endeavour to ſcrew him out of that power and authority which he had in the Meeting, as the Paper ſigned by <hi>Eleven</hi> Miniſters doth clearly demonſtrate. It came to paſs, that it was his purpoſe to take <hi>Re<g ref="char:EOLhyphen"/>becca Travers,</hi> the Younger, to be his Wife: firſt he went to the <hi>Womans</hi>-Meeting, according to Cu<g ref="char:EOLhyphen"/>ſtom, to acquaint them with his Intentions, and there they paſt it with ſo great an Acceptation, that a very conſiderable part of them went along with him to the Mens-Meeting, to juſtifie and ſtand to their procedure towards him, if occaſion offered, whereas others have ſeldom above two. He like<g ref="char:EOLhyphen"/>wiſe acquainted the Men with it, and after a ſhort ſpace, one there charged him for oppoſing a Servant
+<pb n="31" facs="tcp:59487:16"/>
+of the Lord, that had declared a thing in the Name of the Lord.</p>
+            <p>He preſently cleared himſelf from this aſperſion, by proving the perſon to be in a notorious falſity, which he aſſerted in the Name of the Lord; this Blaſphemer, that is thus ſtiled the Servant of the Lord, under the pretence of a Phyſician or Chyrur<g ref="char:EOLhyphen"/>geon, made it his common practice to commit Un<g ref="char:EOLhyphen"/>cleanneſs, and wantonneſs towards Women; and yet he was employed and ſent by <hi>G. F.</hi> to judge Perſons and Meetings; he made him alſo as his Companion in his Travels, and covered him in his wickedneſs, inſomuch that it was a crime ſufficient to take notice thereof.</p>
+            <p>And although <hi>John Oſgood</hi> cleared himſelf as is above expreſſed, <hi>John Bolton</hi> with two or three more had another ſnare for him; namely, <hi>Wilt thou give a teſtimony againſt the Hat-ſpirit?</hi> His Reply was to this purpoſe, <hi>When he ſaw it to be an evil, he ſhould; but at the preſent he did not, and therefore <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ould not give a Teſtimony againſt a thing, before it <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as manifeſted in him to be an Evil.</hi> This would not ſatisfie them, altho' he again came into their practice, in the keeping of it off. This Marriage was declared by <hi>Rebecca Travers</hi> the Elder, and <hi>J.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. to be of the Lord: and <hi>John Bolton,</hi> with not a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ove <hi>two</hi> or <hi>three</hi> more, did ſo oppoſe the paſſing <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hereof, <hi>in the name of the Lord,</hi> that it could not <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e obtained, unleſs he would give a teſtimony as <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bove, and yet almoſt the whole Meeting was for <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſſing of it. This will ſeem prodigious to perſons <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gnorant in theſe affairs.</p>
+            <p>
+               <pb n="32" facs="tcp:59487:17"/>He therefore, without their Conſents, appointed a Day to take his Wife, and a very conſiderable number of the Meeting were Witneſſes thereof. Such was the Severity and Lordlineſs of <hi>J. B.</hi> that he in publick diſowned <hi>Tho. Salthouſe,</hi> for his being there a Witneſs, and for his Moderation. Theſe Tranſactions did ſo ſeize upon the Spirits of others, that it was exceeding difficult for any to obtain Witneſſes in ſuch an affair, if the Meeting refuſed to paſs it, tho' never ſo unjuſtly.</p>
+            <p>By what hath been ſaid, it may be clearly diſcern<g ref="char:EOLhyphen"/>ed, That the greateſt part of the Meeting ſignifie no more than Cyphers, that a few Rule by Will and Pleaſure, a certain ready way it is to make Hypo<g ref="char:EOLhyphen"/>crites; for what greater temptation can a Man meet withal to reduce him to a conformity againſt his Conſcience, than to deprive him of a Perſon whom he moſt dearly loves? And what greater rigidneſs can there be to deny the accompliſhment of ſo weighty a Concern, for the omittance of ſo ſmall a Ceremony as the <hi>Hat?</hi>
+            </p>
+            <p>Let this be had in perpetual memory, That ſome of you were Judged, Condemned, and Executed, for no other Cauſe than the <hi>Hat,</hi> and now they Judge, Condemn, and Excommunicate for the ſame, (Oh greatly to be admired!) Not that I am againſt this practice when required of the Lord, but againſt the cuſtomary uſe thereof; for this I have known, and frequently ſeen, that when a Mi<g ref="char:EOLhyphen"/>niſter hath ended his Declaration, and a general apprehenſion that he will make a cloſe with Prayer, off goes their <hi>Hats,</hi> according to the cuſtom of other Societies; and immediately up ſtands ano<g ref="char:EOLhyphen"/>ther
+<pb n="33" facs="tcp:59487:17"/>
+and begins a new Declaration, then, as Men aſhamed, on goes their <hi>Hats</hi> again. Moreover, it will happen ſometimes for a Man to be overtaken with ſleep when the Prayer is begun, by ſome acci<g ref="char:EOLhyphen"/>dent or other he is diſturbed; but before he is well awakned, he ſnatches off his <hi>Hat</hi> as a Man afright<g ref="char:EOLhyphen"/>ed: Can I judge that thoſe things are any other than a formal Cuſtom? Nay, aſſuredly, others do not pretend that ſpirituality of Worſhip, and there<g ref="char:EOLhyphen"/>fore it is no marvel in them.</p>
+            <p>I never could yet underſtand why the Head may be covered by an Aſſembly, when a Miniſter ſhall return high Praiſes unto the Lord, in an elevated, freſh, and lively Spirit, and to be ſo erroneous as to be Excommunicated for the ſame in time of Prayer.</p>
+            <p>I have been the larger upon this Inſtance, be<g ref="char:EOLhyphen"/>cauſe it proves the greateſt part that is here writ<g ref="char:EOLhyphen"/>ten.</p>
+            <p>The next is this M. <hi>Boreman</hi> and <hi>Elizabeth Baily</hi> came before the Men's Meeting, to expreſs their intentions touching their Marriage; the one part declared poſitively, as from the Lord, that it was to paſs; <hi>John Nelſon, Gerrard Roberts,</hi> and <hi>Thomas Briggs</hi> were three of them, beſides many more. <hi>Tho. Briggs</hi> was tranſported into ſuch an angry Zeal, that he told them, That <hi>it was of the Lord, and that they oppoſed the mind of the Lord:</hi> But when the other Party came cloſe to the buſi<g ref="char:EOLhyphen"/>neſs, he did not know whom the Perſons were that intended their Marriage, to his great ſhame. <hi>John Bolton,</hi> and <hi>Sam. Newton,</hi> were the great Oppo<g ref="char:EOLhyphen"/>ſers, under the ſame pretence, but indeed with
+<pb n="34" facs="tcp:59487:18"/>
+more moderation. Several went home with grie<g ref="char:EOLhyphen"/>ved and ſorrowful hearts, whereof <hi>John Oſgood</hi> was one, and <hi>William Phillips</hi> another; I could name more, but let this ſuffice.</p>
+            <p>The next is concerning <hi>John Swinton,</hi> who did write a large Paper by way of Lamentation, as be<g ref="char:EOLhyphen"/>ing commanded and required of the Lord to pub<g ref="char:EOLhyphen"/>liſh the ſame, wherein was expreſt, That <hi>the Lead<g ref="char:EOLhyphen"/>ers (the Leaders) were greatly guilty of the ful<g ref="char:EOLhyphen"/>neſs of Dyet, fineneſs in Apparel, and of ſpeaking words out of the Life, which was a burthen to the Life:</hi> He juſtified this for ſeveral years, though ſtrongly urged to deny it; but at laſt they pur<g ref="char:EOLhyphen"/>ſued him ſo cloſely, that the Meeting at <hi>Devon<g ref="char:EOLhyphen"/>ſhire-Houſe</hi> ſent for him out of <hi>Scotland,</hi> in the Winter-time, for Him and his Paper to be tryed: But before he came, there was a meeting at the ſaid place concerning him, and there <hi>John Bolton, Gilbert Layty, John Nelſon,</hi> and <hi>Charles Harris,</hi> with many others, paſt Judgment againſt Him and his Paper: A Reply was made by <hi>Gawen Lawrey,</hi> That <hi>it was not regular to deal ſo by a Perſon and his Writings, that was not there to anſwer for him<g ref="char:EOLhyphen"/>ſelf; to Condemn Him, and then to Try him.</hi> This I bring as a further proof of their unreaſonable Ty<g ref="char:EOLhyphen"/>ranny; For what Juſtice and true Judgment could be expected, when theſe Grandees, who were his Judges, did give Judgment againſt him before-hand?</p>
+            <p>In a ſhort ſpace after <hi>John</hi> came to <hi>London,</hi> and a Meeting was again appointed; He ſaw the Breach would be great, and likewiſe his Exerciſe, telling divers before-hand, <hi>The Child muſt not be
+<pb n="35" facs="tcp:59487:18"/>
+divided, nor the Seamleſs garment rent:</hi> and ſo when the day came, he denied the Paper, and the Spirit that gave it forth, yea; <hi>fit for the fire;</hi> and moreover, That <hi>it was writ in an hour of tempta<g ref="char:EOLhyphen"/>tion and weakneſs.</hi>
+            </p>
+            <p>Let the impartial judge, whether this Recanta<g ref="char:EOLhyphen"/>tion was not done rather in ſuch an hour? and whe<g ref="char:EOLhyphen"/>ther the things are not true that he declared?</p>
+            <p>It's time to conclude, having dwelt long enough upon this Subject, with this Counſel and Admo<g ref="char:EOLhyphen"/>nition to the High and Mighty, and to the lofty Mountains, and aſpiring Cedars of this Aſſembly, before ſpoken of: Deſpiſe not to take counſel of a Fool, nor diſdain the advice of the young and weak Ones, for 'tis poſſible, deep knowledge and yet little eſteem may be found together: This I have to inform you, that though you have reduced many to a ſober life, the way to keep them, and to bring in more into the ſame Fold, is by mildneſs, not ſetting up a Lordly Judicature over the Conſcience, for by this all Profeſſions have been ſplit before us; and it is obſerved, that when the Spirit of Lord<g ref="char:EOLhyphen"/>ſhip enters a People over their Fellows, the Lord doth diſappoint the Undertakers thereof, by the withdrawing of his pure Spirit.</p>
+            <p>My Soul's deſire is, That the Spirit of Lordſhip and Exaltedneſs, which hath entred the Body, may be cruſht for ever, that the little Ones may ſerve the Lord without fear, and be found in the Exer<g ref="char:EOLhyphen"/>ciſe of nothing in the Worſhip of God, but what his pure Spirit leads unto, and out of that, Truth may ſpring up in the hearts of thouſands, by en<g ref="char:EOLhyphen"/>joying
+<pb n="36" facs="tcp:59487:19"/>
+of this holy Liberty, and that God may be exalted in the Earth, that the Horn of all Op<g ref="char:EOLhyphen"/>preſſions may be broken, and daſht to pieces, to the praiſe of the Name of the Lord, that the Light of his Glory may ſhine in our Temples in its ſtrength and luſtre, not wanting a proud Lordly Body to rule over us, nor a proud, wanton, lazy Miniſtry to monopolize his precious Truth from us, but that every one may ſit under his own Vine without fear, and eat his Bread at his own Table. And God bears me this Teſtimony, That his Truth, as it hath been declared, is dear unto me, and the Principles delivered, my Soul doth own; and there<g ref="char:EOLhyphen"/>fore, according to my Meaſure, ought to have a place in the Body; but from the Body of Chriſt, and the Unity of his Spirit they cannot exclude me, and therefore my Soul is abundantly ſatisfied and refreſhed, in my ſolitary Retirements, and de<g ref="char:EOLhyphen"/>ſires not to join hands to oppreſs any, nor yet to give up my neck unto the Yoke of Bondage, nor my Back to the Oppreſſion, nor my Judgment and Eyes to the Body: Though I can give my Back to the Smiter, and my Cheeks to the pulling off of the Hair, yet it is through a patient ſuffering, and not a fordid ſlaviſh ſubjection.</p>
+            <p>And altho' they daily exerciſe the Oppreſſions before-mentioned, yet by their deceitful flatteries, they make people believe, That they are a harm<g ref="char:EOLhyphen"/>leſs, innocent, and peaceable People, ſuffering and hearing wrong, but not doing any; or if any per<g ref="char:EOLhyphen"/>ſons Write, or Speak their Grief, that the Publick take notice of, they will repreſent them under ſuch terms as may render them odious; and the more
+<pb n="37" facs="tcp:59487:19"/>
+effectually to weaken their Teſtimonies, they will fix upon them ſcurrilous and contemptible Appella<g ref="char:EOLhyphen"/>tion, as <hi>Scotch-men, Welch-men, Tinker, Taylor,</hi> &amp;c. ſome of them utterly untrue; and to prevent an in<g ref="char:EOLhyphen"/>quiſition into the truth of the matter, they would make people believe that they are envious, malici<g ref="char:EOLhyphen"/>ous, and diſcompoſed Spirits, bad, dirty, factious, and ranting Spirits, who are gone from Truth, and are out of Truth.</p>
+            <p>Such is the portion of thoſe that appear in the leaſt againſt their imperious, tyrannical, and laſcivious Actions; and what-ever Man detected the fallacies and deſtructive Cheats of imperious diſdainful men, but was thus reproached? Muſt it be juſtice in them to complain of their Oppreſſions, and Envy; and Malice, <hi>&amp;c.</hi> in us to complain of ours? their years are but few, yet verily they have been exceed<g ref="char:EOLhyphen"/>ing expert in learning of the <hi>Papiſts</hi> ſubtilties.</p>
+            <p>If I have any intereſt in a Burial-place, and diſ<g ref="char:EOLhyphen"/>pleaſe the Body by diſcharging of a good Conſci<g ref="char:EOLhyphen"/>ence, I ſhall be deprived thereof, and be neceſſita<g ref="char:EOLhyphen"/>ted to ſeek a place for my dead elſe-where: albeit, the Truth, as it hath been declared, is dear unto, and precious with me; for ſay they, <hi>Thou oppoſeſt Friends who are in the Truth.</hi> Let the Spiritual Man judge whether this is not a ſetting up them<g ref="char:EOLhyphen"/>ſelves? yea, let the reaſonable Man judge, whether this is not to diſpoſe of my Right and Propriety by Will and Pleaſure? they are like the <hi>Phariſees</hi> of old, who were more zealous to keep up their Traditions, than the Law given from the Lord, for they are more zealous to keep up their power as a Body, than the Truth it ſelf.</p>
+            <p>
+               <pb n="38" facs="tcp:59487:20"/>It appears plainly unto the Juſt and Righteous Man, that G. F. and the reſt of his Councel have endeavoured to ſubvert the Royal Law of Liberty, and to introduce an Arbitrary and Tyrannical Go<g ref="char:EOLhyphen"/>vernment over the Conſcience, over the Flock of God.</p>
+            <p>Theſe are the ravening Wolves which prey upon the little Ones in a Lordly Spirit; This is that en<g ref="char:EOLhyphen"/>venomed ſpirit which hath tainted their Judgments, poyſoned their Hearts, and blinded their Eyes; how hainous it is in the Nature, how miſchievous in the Effects of it? which will beſt appear, if it be examined by that infallible Law, <hi>To do as we would be done unto;</hi> This is the Foundation of all Laws, out of which they are derived; this is the Supream Law, and the Health of the People, and end of all Laws to which they are deſigned: And how far this Spirit in them ſtands in oppoſition to this Law, I ſhall further manifeſt.</p>
+            <p>They pretend and claim an Infallibility in Judg<g ref="char:EOLhyphen"/>ment, <hi>&amp;c.</hi> (not that I am againſt Infallibility, but that it is in a ſpecial manner peculiar to them, as they are a Body, this I am againſt) yet who more fallible in Judgment than they? who more partial in Juſtice? And what can be more dangerous and deſtructive to the well-being of a People, than ſuch a claim without it? If they were in it, aſſuredly they would boaſt leſs, be more humble and chaſt, more ſelf-denying and mortified in their Converſa<g ref="char:EOLhyphen"/>tions.</p>
+            <p>I ſhall be liable to tranſgreſs, by breaking a Law hidden in their Breaſts; that muſt be a Crime which they are pleaſed to ſay is ſo; all muſt be error which
+<pb n="39" facs="tcp:59487:20"/>
+they pleaſe to call ſo. <hi>What</hi> (ſay they) <hi>doſt thou ſee, doſt thou feel that which the Body doth not? thou art in an exalted Spirit, the Body hath not unity with it; if it had been a true motion, the Body would have a ſence thereof,</hi> (behold the Touch-ſtone); and certainly in their degenerated Natures, as many great enormities have been, ſo greater will be pro<g ref="char:EOLhyphen"/>duc'd: Luſt will become a Law, Envy will be<g ref="char:EOLhyphen"/>come a Law; Ambition and Covetouſneſs will be<g ref="char:EOLhyphen"/>come Laws: What Dictates, what Diviſions ſuch Laws will produce, may eaſily be diſcerned by the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate Viciſſitudes, to diſpoſe of all to the mainte<g ref="char:EOLhyphen"/>nance of it ſelf? The bounds of the Royal Law they have removed and broken, (and this miſchief muſt needs enſue in the ſtead thereof, Tyranny eſtabliſh<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d) and yet they will tell us, <hi>It's for the honour of Truth, and its ſervice from the Spirit of Truth.</hi>
+            </p>
+            <p>What greater diſhonour can there be to the Lord God of Heaven and Earth, than to pretend <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Holy, Pure Spirit in the practice of Injuſtice <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Oppreſſion, and to make uſe of his great Name and Power to patronize their pride and ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lted Spirits?</p>
+            <p>Such arbitrary courſes have an ill Operation upon <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Spirits of Men, it weakens their Hearts, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ools their Courage, and begets in them a ſlaviſh Temper and Diſpoſition; and where this arbitra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y and unlimited Power is ſet up, a way is open not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nly for the ſecurity, but for the Advancement and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncouragement of Evil, and a means to Increaſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>latterers. Such Men are apteſt to cry up the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ody in all reſpects, and are the only good Friends: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut others (though exemplary in their Converſa<g ref="char:EOLhyphen"/>tions)
+<pb n="40" facs="tcp:59487:21"/>
+who cannot yield and comply againſt the light in their Conſciences, to ſome of their proceed<g ref="char:EOLhyphen"/>ings, are ſubject to their Jealouſie, Cenſure, if not an Ejection.</p>
+            <p>In days paſt the Lord raiſed up a <hi>Moſes</hi> to be a Ruler and Leader to his People <hi>Iſrael,</hi> who were then under Types, Figures and Shadows; and the Lord ſpake to his People by his Servant <hi>Moſes:</hi> But another Adminiſtration more glorious is eſta<g ref="char:EOLhyphen"/>bliſhed; to wit, The Diſpenſation of the Son of God, whom <hi>Moſes</hi> propheſied of, who ſpeaketh from Heaven, who is the end of all Figures, Types and Shadows, he who is the ſubſtance of all Types, <hi>&amp;c.</hi> is now the Great Captain, and Leader of his People, make uſe of, and lays by what In<g ref="char:EOLhyphen"/>ſtruments he pleaſeth, reveals his Mind ſometimes to one, ſometimes to another, without reſpect to Perſons or Bodies, as he pleaſeth, That there may be no glorying but in the Lord: <hi>He abaſeth the proud; and exalteth the humble;</hi> hides his mind from the High and Mighty, from the Wiſe and Prudent, and reveals himſelf unto Babes; and therefore he need<g ref="char:EOLhyphen"/>eth not a <hi>Fox,</hi> nor a Body to conveigh his Will unto his People, he being himſelf their Teacher, and hath planted his Laws in their Hearts, and gi<g ref="char:EOLhyphen"/>ven them an holy Anointing, to know the <hi>Spirit of Truth</hi> from the <hi>Spirit of Error.</hi>
+            </p>
+            <p>And albeit the Kings of the Earth exerciſe Lord<g ref="char:EOLhyphen"/>ſhip and Authority over their People, yet it ought not to be ſo among the Diſciples of Chriſt, being all Brethren: But for the greateſt to be well contented to ſerve in the meaneſt employment, if the Lord requires it, as to be ſerved, to hearken, and ſub<g ref="char:EOLhyphen"/>mit
+<pb n="41" facs="tcp:59487:21"/>
+to the Voice of his Spirit, in the leaſt Babe as in the greateſt, or, as in the Body.</p>
+            <p>And I affirm, the Lord did not raiſe them up to bring us off from the barren Mountains, to feed upon them who are now become a Deſart; nor from under our Oppreſſors, to turn Oppreſſors themſelves: Let them remember the Army, it is their Figure; and if the Lord's anger waxed hot againſt them for their Unfaithfulneſs, what will be the Portion of theſe, who have ſo deeply Apoſta<g ref="char:EOLhyphen"/>tized fram clearer Manifeſtations?</p>
+            <p>Many of the moſt Eminent have had potent Im<g ref="char:EOLhyphen"/>pulſes, to give forth ſolid, and ſound Arguments for Liberty of Conſcience, and have pleaded ſtrongly for the ſame, yet <hi>George Fox</hi> was heard to ſay in a ſelected great Aſſembly thus, <hi>Though many Friends have writ for Liberty of Conſcience, I never lik'd the Word, it is not a good Word, no Liberty to the Presbyterians, no Liberty to the Papiſts, no Li<g ref="char:EOLhyphen"/>berty to the Independants, no Liberty to the Baptiſts,</hi> &amp;c. Liberty is to be only in the Truth, and ſaith he, no Liberty out of the Power. In Anſwer un<g ref="char:EOLhyphen"/>to this, Truth gives Liberty unto the weak, yet no weakneſs in the Truth.</p>
+            <p>Since the Spirit is withdrawn, they do greatly boaſt the Power is as much, and as freſh as ever, (if ſo, they would be more refreſhed with it, and leſs with Sleep in their Aſſemblies) and their Unity as entire as ever. Yet verily, ſharper Contentions are ſeldom ſound amongſt any People. To prove this, I will ſet down two notable Examples, it is between four famous and eminent Elders.</p>
+            <p>Firſt, <hi>Tho. Salthouſe</hi> and <hi>John Bolton: T. S.</hi> be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng a man of ſome Moderation and Tenderneſs, uſed
+<pb n="42" facs="tcp:59487:22"/>
+his endeavours to beget a Reconcilement between the Practicers and Forbearers of the <hi>Hat</hi> in Prayer, and to receive each other as Brethren, though they differ in that particular thing; but that high and hot-ſpirited Elder <hi>J. B.</hi> called him falſe Prophet, reputed him worſe than the Forbearers, and op<g ref="char:EOLhyphen"/>poſed his Miniſtry, untill with much ado a Re<g ref="char:EOLhyphen"/>concilement was made by a condeſcention on both parts.</p>
+            <p>The other is between <hi>G. Fox</hi> and <hi>Sam. Newton,</hi> who being a man of ſome Honeſty and Cleanneſs in his Spirit, was againſt having of a Perſon to Act in their behalf, as in relation to Sufferings, whoſe Converſation Preached not Righteouſneſs, but <hi>G. F.</hi> oppoſed him with ſo much wrath and vio<g ref="char:EOLhyphen"/>lence, that ſome there preſent thought he would have ſtrucken him, he being a perſon ſo rightly qualified and accompliſhed for <hi>George</hi>'s Intereſt.</p>
+            <p>Such is the ſwelling Pride of this <hi>Luciferian</hi> that he gave forth a Paper, That <hi>his Marrirge wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Margaret Fell, <hi>was a Figure of the Marriage between Chriſt and the Church.</hi> I may more juſtly believ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it to be a Figure of the great Apoſtacy from th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Truth, and barrenneſs in the Truth.</p>
+            <p>He likewiſe declared, That <hi>his Marriage was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>bove the ſtate of</hi> Adam <hi>in his Innocency, in the ſtat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the ſecond</hi> Adam, <hi>who never fell.</hi> This Pape<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was ſo ill Reſented, and ſo much diſlik'd, that i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was called in again; and a rare thing it was to ge<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a ſight there of, albeit through an accident, I ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a View of it.</p>
+            <p>The aboveſaid <hi>Samuel Newton</hi> and <hi>John Bolton</hi> to give them their due, have not taken a littl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Pains, Labour and Travel, to bring to Light an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="43" facs="tcp:59487:22"/>
+to Judgement ſuch unheard of Practiſes of beaſtly wantonneſs, and filthy uncleanneſs, that it is hard to believe the exceſs thereof: But <hi>John Bolton</hi> hath, or had a Confeſſion in Writing from one or two of the Female Perſons concern'd, of the Debauched Actions, to declare the truth thereof; yet notwithſtanding they met with ſuch great Obſtructions and Oppoſition, that they cannot accompliſh a thorow Examination of it, becauſe it toucheth many Eminent Ones in the Miniſtry; who from day to day reſorted unto them, and giving them theſe Appellations, <hi>Innocent Laſſes, and Daughters of</hi> Sion.</p>
+            <p>Sometimes it comes to paſs, that two approved of in the Miniſtry, will oppoſe and Judge each other in publick Aſſemblies, in the Name of the Lord: but to prevent the evil effects therof, the next day Perſons ſhall be appointed to declare the Greatneſs of their Unity, and the Oneneſs in their Spirits.</p>
+            <p>But leaſt there ſhould be a miſapplication of what I have Written; when I expreſs <hi>the Body,</hi> I do declare, my meaning is, The Second Days Meeting at <hi>Devonſhire</hi>-houſe, with ſome other Principals in other Countries, who are their Abet<g ref="char:EOLhyphen"/>tors, and not the whole Body of the People called <hi>Quakers;</hi> for I am aſſured, and well know, that very many have not bowed to this Golden Image, with whom my Soul hath Unity, and with whom I am Refreſhed.</p>
+            <p>And moreover, I meet with many who will free<g ref="char:EOLhyphen"/>ly open their Hearts to me, with grieved and ſor<g ref="char:EOLhyphen"/>rowful Spirits, to behold what Domineering, and what partial Judgment is practiſed, what Severi<g ref="char:EOLhyphen"/>ty
+<pb n="44" facs="tcp:59487:23"/>
+and Tyrany is Exerciſed at this Meeting, but eſpecially againſt Diſſenters.</p>
+            <p>
+               <hi>But,</hi> ſay they, <hi>it is out of our Power to Redreſs it, until God doth Change their Hearts, or give us more Power;</hi> reckoning themſelves at preſent too weak to grapple with theſe <hi>Goliah</hi>'s, unleſs the little Stone be given them to ſmite them on their Foreheads, or Words to this purpoſe.</p>
+            <p>Let us truſt in the Lord, and wait upon him with patience in Faith which overcomes the World; that he will threſh the Mountains, and rebuke the High and Mighty, who are Exalted above their Meaſures; and exalt his Truth over all, that Juſtice and Righteouſneſs may flow as a River, to the re<g ref="char:EOLhyphen"/>joycing of his Oppreſſed People, and to the Praiſe and Glory of his Name for ever. From a deep Mourner in <hi>Iſrael,</hi> to behold how the Earth is fil<g ref="char:EOLhyphen"/>led with Violence, and the Righteous Seed Op<g ref="char:EOLhyphen"/>preſſed.</p>
+            <p>
+               <hi>Dear Friend,</hi> It hath pleaſed the Lord to raiſe thee up to bear a Teſtimony againſt an Adulterous, Tyrannical, and an Hypocritical Generation; let the Word of the Lord therefore have a free paſſage in and through thee, and Conſult not with Fleſh and Blood; Watch againſt the Enemy, left he dar<g ref="char:EOLhyphen"/>ken thy Underſtanding, that thou canſt not diſtin<g ref="char:EOLhyphen"/>guiſh between the Precious and the Vile. Mix not thy own Thoughts with the Motions of the Spirit; keep in the Fear, and in the Humility, that an ex<g ref="char:EOLhyphen"/>alted Spirit may be kept out: Build thy Houſe up<g ref="char:EOLhyphen"/>on the Rock of Ages, and ſtand in the unchangea<g ref="char:EOLhyphen"/>ble without wavering, that thy Converſation may be without Blemiſh, thy Judgment withot Error, and thy Love unto the Truth without Diſſimulation.
+<pb n="45" facs="tcp:59487:23"/>
+Be Faithful unto the Lord's Requirings, that Diſo<g ref="char:EOLhyphen"/>bedience may not enter. Rember the Root bear<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Tree, and the Tree the Branches; if the na<g ref="char:EOLhyphen"/>tural Branches were cut off through unbelief, and thou with thouſands grafted in, be not high-min<g ref="char:EOLhyphen"/>ded, but fear.</p>
+            <closer>
+               <signed>From a Little hidden One of the Flock of Jeſus.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
